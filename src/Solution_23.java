@@ -18,7 +18,7 @@ public class Solution_23 {
     return mergeTwoLists(recursive(l),recursive(r));
   }
 
-  private ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+  static ListNode getListNode(ListNode l1, ListNode l2) {
     ListNode dummy = new ListNode(0);
     ListNode cur = dummy;
     ListNode cur1 = l1;
@@ -42,5 +42,9 @@ public class Solution_23 {
       cur.next = cur2;
     }
     return dummy.next;
+  }
+
+  private ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+    return getListNode(l1, l2);
   }
 }
