@@ -21,4 +21,10 @@ public class Solution_89 {
     return res;
   }
 
+  public void re() {
+    String s = "Jimmy has an apple, it is on the table";
+    String[] res = s.split("\\W+");
+    System.out.println(res[1]);
+  }
+
 }

@@ -5,6 +5,6 @@ public class Solution_89Test {
   @Test
   public void grayCode() {
     Solution_89 s = new Solution_89();
-    System.out.print(s.grayCode(3));
+    s.re();
   }
 }
