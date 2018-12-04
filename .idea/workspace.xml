@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b69e84a-e911-4326-af81-e8d278fc7698" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Google_OA_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Google_OA_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_204.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Solution_215Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_206.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/Solution_200.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="24" column="62" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="62" />
+              <caret line="24" column="63" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -55,17 +49,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution_204.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="209">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution_215.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-127">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution_206.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution_234.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Solution_215Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Solution_121Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Google_OA_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="50" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -109,14 +142,16 @@
         <option value="$PROJECT_DIR$/src/Solution_200.java" />
         <option value="$PROJECT_DIR$/src/Solution_204.java" />
         <option value="$PROJECT_DIR$/src/Solution_206.java" />
+        <option value="$PROJECT_DIR$/test/Solution_215Test.java" />
+        <option value="$PROJECT_DIR$/src/Solution_215.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="16" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="52" />
+    <option name="y" value="15" />
     <option name="width" value="1400" />
-    <option name="height" value="777" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -158,7 +193,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543806504118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543892008286" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PDP-TeamAssignment/Assignment10" />
@@ -172,10 +207,10 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
@@ -191,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution_8Test">
+  <component name="RunManager" selected="JUnit.Solution_215Test">
     <configuration name="Solution_3Test" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_java" />
       <option name="PACKAGE_NAME" value="" />
@@ -213,10 +248,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution_215Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution_3Test" />
+      <option name="MAIN_CLASS_NAME" value="Solution_215Test" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,18 +311,18 @@
     </configuration>
     <list>
       <item itemvalue="Android JUnit.Solution_3Test" />
-      <item itemvalue="JUnit.Solution_3Test" />
       <item itemvalue="JUnit.Solution_3Test.test" />
       <item itemvalue="JUnit.Solution_5Test" />
       <item itemvalue="JUnit.Solution_8Test" />
+      <item itemvalue="JUnit.Solution_215Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution_215Test" />
         <item itemvalue="JUnit.Solution_8Test" />
         <item itemvalue="Android JUnit.Solution_3Test" />
         <item itemvalue="JUnit.Solution_5Test" />
         <item itemvalue="JUnit.Solution_3Test.test" />
-        <item itemvalue="JUnit.Solution_3Test" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +342,8 @@
       <workItem from="1542128428885" duration="5000" />
       <workItem from="1543348491764" duration="506000" />
       <workItem from="1543847283728" duration="86000" />
+      <workItem from="1543881131073" duration="29000" />
+      <workItem from="1543886286536" duration="5479000" />
     </task>
     <task id="LOCAL-00001" summary="n">
       <created>1541462086330</created>
@@ -322,60 +359,66 @@
       <option name="project" value="LOCAL" />
       <updated>1541473601079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="n">
+      <created>1543881148659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543881148660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 29m 26s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 28m 03s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 31m 37s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 28m 19s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 31m 56s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 33m 50s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 35m 36s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 33m 52s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 36m 14s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 35m 45s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 37m 01s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 36m 22s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 38m 28s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 36m 23s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 39m 32s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 36m 24s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 40m 50s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 36m 37s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution_8Test - 2018.11.01 at 11h 40m 54s.xml">
-      <configuration name="Solution_8Test" configurationId="JUnit" />
+    <history-entry file="Solution_215Test - 2018.12.03 at 21h 36m 59s.xml">
+      <configuration name="Solution_215Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25254000" />
+    <option name="totallyTimeSpent" value="30762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="20" width="1400" height="776" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268257" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1883378" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -384,7 +427,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -394,6 +437,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3096836" />
@@ -565,16 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google_OA_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="50" column="3" selection-start-line="45" selection-start-column="1" selection-end-line="50" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/Solution_119Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -623,21 +657,59 @@
     <entry file="file://$PROJECT_DIR$/src/Solution_200.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" column="62" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution_204.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="13" selection-end-column="3" />
+          <caret line="24" column="63" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution_206.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="152">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution_204.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google_OA_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Solution_121Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Solution_215Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution_215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution_234.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
