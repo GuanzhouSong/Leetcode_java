@@ -1,154 +1,231 @@
+
 [x]1 Array · Hash Table
 Two Sum
+
 [x]2 Linked List · Math
 Add Two Numbers
+
 [x]3 Hash Table · Two Pointers · String
 Longest Substring Without Repeating Characters
+
 [x]5 String
 Longest Palindromic Substring
+
 [x]8 Math · String
 String to Integer (atoi)
+
 [x]15 Array · Two Pointers
 3Sum
+
 [x]17 Backtracking · String
 Letter Combinations of a Phone Number
+
 [x]20 Stack · String
 Valid Parentheses
+
 [x]21 Linked List
 Merge Two Sorted Lists
+
 [x]23 Divide and Conquer · Linked List · Heap
 Merge k Sorted Lists
+
 []42 Array · Stack · Two Pointers
 Trapping Rain Water
+
 [x]48 Array
 Rotate Image
+
 [x]49 Hash Table · String
 Group Anagrams
+
 [x]73 Array
 Set Matrix Zeroes
+
 [x]78 Array · Backtracking · Bit Manipulation
 Subsets
+
 [x]89 Backtracking
 Grav Code
+
 [x]98 Tree · Depth- f irst Search
 Validate Binary Search Tree
+
 [x]102 Tree · Breadth -first Search
 Binary Tree Level Order Traversal
+
 [x]119 Array
 Pascal's Triangle II
+
 [x]121 Array · Dynamic Programming
 Best Time to Buy and Sell Stock
+
 []126 Array · Backtracking · Breadth-first Search · String
 Word Ladder II
+
 []127 Breadth - first Search
 Word Ladder
+
 [x]138 Hash Table · Linked List
 Copy List with Random Pointer
+
 [x]139 Dynamic Programming
 Word Break
+
 [x]141 Linked List · Two Pointers
 Linked List Cycle
+
 []146 Design
 LRU Cache
+
 [x]155 Stack · Design
 Min Stack
+
 [x]160 Linked List
 Intersection of Two Linked Lists
+
 [x]167 Array · Two Pointers · Binary Search
 Two Sum II - Input array is sorted
+
 []186 String
 Reverse Words in a String II
+
 [x]199 Tree · Depth- f irst Search · Breadth- f irst Search
 Binary Tree Right Side View
+
 [x]200 Depth-first Search · Breadth- f irst Search · Union Find
+
 [x]204 Hash Table · Math
 Count Primes
+
 [x]206 Linked List
 Reverse Linked List
+
 [x]215 Heap · Divide and Conquer
 Kth Largest Element in an Array
+
 []234 Linked List · Two Pointers
 Palindrome Linked List
+
 [x]235 Tree
 Lowest Common Ancestor of a Binary Search Tree
+
 [x]236 Tree
 Lowest Common Ancestor of a Binary Tree
+
 [x]238 Array
 Product of Array Except Self
+
 [x]239 Heap
 Sliding Window Maximum
+
 []240 Binary Search · Divide and Conquer
 Search a 2D Matrix II
-[]242 Hash Table · Sort
+]242 Hash Table · Sort
 Valid Anagram
+
 []297 Tree · Design
 Serialize and Deserialize Binary Tree
+
 []355 Hash Table · Heap · Design
 Design Twitter
+
 []380  Array · Hash Table · Design
 Insert Delete GetRandom 0( 1)
+
 []387  Hash Table · String
 First Unique Character in a String
+
 []396 Math
 Rotate Function
+
 []414 Array
+
 []438 Hash Table
 Find All Anagrams in a String
+
 []449 Tree
 Serialize and Deserialize BST
+
 []451 Hash Table · Heap
 Sort Characters By Frequency
+
 []459 String
 Repeated Substring Pattern
+
 []460 Design
 LFU Cache
+
 []508 Tree · Hash Table
 Most Frequent Subtree Sum
+
 []516 Dynamic Programming
 Longest Palindromic Subsequence
+
 []517 Dynamic Programming · Math
 Super Washing Machines
+
 []529 Depth-first Search · Breadth-f irst Search
 Minesweeper
+
 []532 Two Pointers · Array
 K-diff Pairs in an Array
+
 []535 Hash Table · Math
 Encode and Decode TinyURL
+
 []536 Tree · String
 Construct Binary Tree from String
+
 []537 Math · String
 Complex Number Multiplication
+
 []538 Tree
 Convert BST to Greater Tree
+
 []545 Tree
 Boundary of Binary Tree
+
 []553 Math · String
 Optimal Division
+
 []606 Tree · String
 Construct String from Binary Tree
+
 []617 Tree
 Merge Two Binary Trees
+
 []640 Math
 Solve the Equation
+
 []645 Hash Table · Math
 Set Mismatch
+
 []646 Dynamic Programming
 Maximum Length of Pair Chain
+
 []661 Array
 Image Smoother
+
 []662 Tree
 Maximum Width of Binary Tree
+
 []663 Tree
 Equal Tree Partition
+
 []675 Breadth-first Search · Amazon
 Cut Off Trees for Golf Event
+
 []682 Stack
 Baseball Game
+
 []692 Hash Table · Heap · Trie
 Top K Frequent Words
+
 []694 Hash Table · Depth-first Search
 Number of Distinct Islands
+
 []711 Hash Table · Depth-first Search
 Number of Distinct Islands II
+
 []725 Linked List
 Split Linked List in Parts
