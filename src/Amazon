@@ -136,33 +136,33 @@ Insert Delete GetRandom 0( 1)
 [x]387  Hash Table · String
 First Unique Character in a String
 
-[]396 Math
+[x]396 Math
 Rotate Function
 
-[]414 Array
+[x]414 Array
 
 []438 Hash Table
 Find All Anagrams in a String
 
-[]449 Tree
+[x]449 Tree
 Serialize and Deserialize BST
 
-[]451 Hash Table · Heap
+[x]451 Hash Table · Heap
 Sort Characters By Frequency
 
-[]459 String
+[x]459 String
 Repeated Substring Pattern
 
 []460 Design
 LFU Cache
 
-[]508 Tree · Hash Table
+[x]508 Tree · Hash Table
 Most Frequent Subtree Sum
 
-[]516 Dynamic Programming
+[x]516 Dynamic Programming
 Longest Palindromic Subsequence
 
-[]517 Dynamic Programming · Math
+[x]517 Dynamic Programming · Math
 Super Washing Machines
 
 []529 Depth-first Search · Breadth-f irst Search
