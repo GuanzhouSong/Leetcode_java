@@ -15,7 +15,7 @@ public class Solution_23 {
     int mid = lists.length/2;
     ListNode[] l = Arrays.copyOfRange(lists,0,mid+1);
     ListNode[] r = Arrays.copyOfRange(lists,mid+1,lists.length);
-    return mergeTwoLists(recursive(l),recursive(r));
+    return getListNode(recursive(l), recursive(r));
   }
 
   static ListNode getListNode(ListNode l1, ListNode l2) {
@@ -44,7 +44,4 @@ public class Solution_23 {
     return dummy.next;
   }
 
-  private ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-    return getListNode(l1, l2);
-  }
 }
